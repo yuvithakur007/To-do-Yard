@@ -1,0 +1,17 @@
+.nav div { 
+display: inline-block;
+min-height: 50px; 
+height: auto; 
+}
+
+.nav div.div1{
+  width: 230px;
+  color: crimson;
+  font-size: 3em;
+}
+
+.nav div.clock{
+  color: rgb(189, 33, 64);
+  font-size: 1.5em;
+  /* width: 200px; */
+}
